@@ -1,0 +1,22 @@
+{
+  "169e3f8e-92ee-4bb7-8054-dfb6927c1740": {
+    "title": "tell me about this book",
+    "mode": "project",
+    "rag_id": "04c2275785b94becade2937d690d6371"
+  },
+  "4e495ba2-5a6d-4e09-bfc6-ca4cda04f42c": {
+    "title": "hi",
+    "mode": "general",
+    "rag_id": null
+  },
+  "36a263cd-65dc-4e79-aabe-7d4dded3690f": {
+    "title": "what sap ai",
+    "mode": "general",
+    "rag_id": null
+  },
+  "e7a459e5-d3fa-4a94-8177-686f87bf035f": {
+    "title": "New Chat",
+    "mode": "project",
+    "rag_id": "04c2275785b94becade2937d690d6371"
+  }
+}

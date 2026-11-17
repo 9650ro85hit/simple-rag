@@ -1,0 +1,12 @@
+{
+  "name": "rag-chatbot",
+  "version": "1.0.0",
+  "description": "RAG chatbot UI with projects and general chats (Express + vanilla JS, localStorage persistence)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
